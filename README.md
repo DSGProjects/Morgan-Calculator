@@ -1,6 +1,6 @@
 # 🧮 Morgan Calculator
 
-Calculadora de escritorio construida con Python, interfaz gráfica con Tkinter y sonido con Pygame. Incluye ícono personalizado y fue empaquetada como ejecutable `.exe` con PyInstaller.
+Calculadora de escritorio construida con Python, interfaz gráfica con Tkinter y sonido con Pygame. Incluye ícono personalizado.
 
 ---
 
@@ -9,7 +9,6 @@ Calculadora de escritorio construida con Python, interfaz gráfica con Tkinter y
 - **Python** → Lenguaje principal
 - **Tkinter** → Interfaz gráfica
 - **Pygame** → Sonido al presionar botones
-- **PyInstaller** → Empaquetado como ejecutable .exe
 
 ---
 
@@ -19,7 +18,6 @@ Calculadora de escritorio construida con Python, interfaz gráfica con Tkinter y
 - Sonido al calcular resultado
 - Ícono personalizado
 - Ventana fija, diseño limpio
-- Empaquetada como `.exe` ejecutable
 
 ---
 
@@ -31,16 +29,10 @@ Calculadora de escritorio construida con Python, interfaz gráfica con Tkinter y
 
 ## 🚀 Cómo correr el proyecto
 
-### Opción 1: Correr con Python
-
 ```bash
 pip install pygame
 python "Morgan Calculator.py"
 ```
-
-### Opción 2: Ejecutable
-
-Descarga el `.exe` y ejecuta directamente sin instalar Python.
 
 ---
 
